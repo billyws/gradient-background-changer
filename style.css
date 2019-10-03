@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 150px;
+}
+
+.footerCredits {
+    text-transform: capitalize;
+    font-family: cursive;
+    pointer-events: stroke;
+}
+
+.footer {
+    margin: 200px;
+}
+
+.copyCode {
+    padding-top: 20px;
+}
